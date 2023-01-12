@@ -1,0 +1,13 @@
+.p1{
+    color: blue;
+}
+.sidebar-container{
+   background-color:burlywood;
+   height:97vh; 
+   width:40vh;
+}
+.sidebar-head{
+    text-align: center;
+    padding-top: 1rem;
+    font-family: fantasy;
+}
